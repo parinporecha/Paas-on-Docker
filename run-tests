@@ -1,1 +1,4 @@
-echo "it works"
+if __name__ == "__main__":
+    # By default, run tests in tests folder
+    print "it works";
+    return 1;
