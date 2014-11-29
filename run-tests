@@ -2,5 +2,4 @@
 
 if __name__ == "__main__":
     # By default, run tests in tests folder
-    print "it works";
-    return 0;
+    print "it works"
